@@ -59,8 +59,8 @@ def is_suspicious_email(subject, body):
 
 # Main loop to continuously fetch and check emails
 if __name__ == "__main__":
-    username = 'vucselab012@gmail.com'
-    password = 'kmhv mxtg baju wgoo'
+    username = 'your username'
+    password = 'your app paswword'
     
     while True:
         fetch_emails(username, password)
