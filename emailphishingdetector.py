@@ -1,3 +1,4 @@
+#import necessary packages
 import time
 import imaplib
 import email
